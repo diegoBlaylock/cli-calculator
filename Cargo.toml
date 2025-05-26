@@ -1,0 +1,8 @@
+[package]
+name = "math-interp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nom = "8.0.0"
+rand = "0.9.1"
